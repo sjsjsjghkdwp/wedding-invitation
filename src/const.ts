@@ -30,7 +30,7 @@ export const WEDDING_HALL_POSITION = [126.942483, 37.562731]
 // 네이버 지도의 웨딩홀 장소 ID
 // 네이버 지도 웹페이지에서 웨딩홀 검색 후 URL에서 확인 가능.
 // 예: https://map.naver.com/p/entry/place/13321741 -> 13321741
-export const NMAP_PLACE_ID = 'FEUO3qlq'
+export const NMAP_PLACE_ID = 1400823520
 
 // 카카오 지도의 웨딩홀 장소 ID
 // 카카오 지도 웹페이지에서 웨딩홀 검색 후 해당 장소에서 상세보기 클릭 시 URL에서 확인 가능.
@@ -53,13 +53,13 @@ export const BRIDE_INFO = [
     relation: "신부 아버지",
     name: BRIDE_FATHER,
     phone: "010-6331-3043",
-    account: "우리은행 1002-454-987399",
+    account: "신한은행 110-023-097057",
   },
   {
     relation: "신부 어머니",
     name: BRIDE_MOTHER,
     phone: "010-4314-3043",
-    account: "우리은행 1002-454-987399",
+    account: "국민은행 809-240-158453",
   },
 ]
 
@@ -79,12 +79,12 @@ export const GROOM_INFO = [
     relation: "신랑 아버지",
     name: GROOM_FATHER,
     phone: "010-5211-2413",
-    account: "신한은행 110-023-097057",
+    account: "우리은행 1002-536-547752",
   },
   {
     relation: "신랑 어머니",
     name: GROOM_MOTHER,
     phone: "010-2714-2430",
-    account: "국민은행 809-240-158453",
+    account: "우리은행 203-166643-02-001",
   },
 ]

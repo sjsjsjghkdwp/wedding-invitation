@@ -111,7 +111,7 @@ const NaverMap = () => {
                 break
               default:
                 window.open(
-                  `https://naver.me/${NMAP_PLACE_ID}`,
+                  `https://map.naver.com/p/entry/place/${NMAP_PLACE_ID}`,
                   "_blank",
                 )
                 break
