@@ -6,8 +6,6 @@
 npm install --save-dev gh-pages
 npm run deploy
 ```
-
-
 # 원본 readme
 
 ## 원본 버전 | Original Version
