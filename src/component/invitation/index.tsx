@@ -52,8 +52,10 @@ export const Invitation = () => {
           의 <span className="relation-name">{BRIDE_TITLE}</span>
         </span>{" "}
         {BRIDE_FULLNAME}
+   
       </div>
 
+      <div className="break" />
       <div className="break" />
 
       <Button
