@@ -1,5 +1,15 @@
 # 모바일 청첩장
 
+## how to deploy
+
+```
+npm install --save-dev gh-pages
+npm run deploy
+```
+
+
+# 원본 readme
+
 ## 원본 버전 | Original Version
 
 하기 청첩장을 fork 하여 작성된 청첩장입니다.
